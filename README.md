@@ -1,11 +1,11 @@
-### New York Airnb Listing EDA Project 
+### New York Airbnb Listing EDA Project 
 
 ---
 
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
 
-[!(https://images.app.goo.gl/H1S8wLkMa3uN3xGK7)]
+(https://images.app.goo.gl/H1S8wLkMa3uN3xGK7)
 ---
 
 ## Objective
