@@ -5,7 +5,7 @@
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
 
-![image_alt][https://github.com/Utkarshso/New_York_Airnb_Listing/blob/cb89f0b5729b35a520e71afba92ead9516e15b14/airbnb-sign-next-model-house-600nw-2459050523.jpg]
+![image_alt](https://github.com/Utkarshso/New_York_Airnb_Listing/blob/cb89f0b5729b35a520e71afba92ead9516e15b14/airbnb-sign-next-model-house-600nw-2459050523.jpg)
 ---
 
 ## Objective
